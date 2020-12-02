@@ -1,1 +1,1 @@
-web: gunicorn quote_finder_project.wsgi --log-file -
+web: gunicorn quote_finder_project.wsgi
